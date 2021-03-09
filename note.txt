@@ -1,1 +1,13 @@
 
+# requirements
+
+node :
+  use v12.0.0 ; 
+  Other including latest and v14 showing an error
+npm :
+  latest
+  
+serverless :
+  latest
+  
+  ################################################
