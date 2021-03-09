@@ -10,8 +10,8 @@ npm :
 serverless :
   latest
   
-  ################################################
+# ###############################################
 
-Creating a serverless project using template aws-python3 
+# Creating a serverless project using template aws-python3 
 
   serverless create --template aws-python3
